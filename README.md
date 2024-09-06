@@ -1,3 +1,3 @@
-# About Me
-# Project 1 : Coding [python]
-# Project 2 : Linux PC [Basics]
+# About Me :open_book:
+# I'm currently working towards... :scroll:
+# How to reach me :telephone_receiver:
